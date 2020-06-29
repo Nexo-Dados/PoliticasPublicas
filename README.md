@@ -5,7 +5,7 @@
 
 ## Como este repositório está organizado
 
-Cada pasta (ou subdiretório) deste projeto se refere a um gráfico diferente que foi publicado na seção de **dados**, [Nexo Políticas Públicas]('#'). 
+Cada pasta (ou subdiretório) deste projeto se refere a um gráfico diferente que foi publicado na seção de **dados** do [Nexo Políticas Públicas]('#'). 
 
 Os materiais são assinados pela equipe do Nexo Jornal e os dados são originários de centros pesquisas parceiros.
 
@@ -27,11 +27,6 @@ git clone https://github.com/Nexo-Dados/PoliticasPublicas.git
 ```
 
 Digite `cd` para ver onde a pasta foi baixada.
-
-
-## Saiba mais
-
-Saiba mais sobre o Nexo Políticas Públicas [aqui]('#').
 
 ## Índice de gráficos
 
