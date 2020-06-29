@@ -1,4 +1,4 @@
-<img src='https://github.com/JornalNexo/Graficos/blob/master/PoliticasPublicas/nexopp.svg'>
+<img src='https://github.com/Nexo-Dados/PoliticasPublicas/blob/master/nexopp.svg'>
 
 # 0001. Salário Mínimo - aposentadoria
 ## A evolução do número de aposentados que recebem um salário mínimo
