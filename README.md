@@ -2,7 +2,6 @@
 
 # Nexo Políticas Públicas - Dados
 
-Repositório público com os dados e gráficos dos materiais publicados pelo Nexo Políticas Públicas, iniciativa do Nexo Jornal
 
 ## Como este repositório está organizado
 
@@ -30,9 +29,16 @@ git clone https://github.com/Nexo-Dados/PoliticasPublicas.git
 Digite `cd` para ver onde a pasta foi baixada.
 
 
+## Saiba mais
+
+Saiba mais sobre o Nexo Políticas Públicas [aqui]('#').
 
 ## Índice de gráficos
 
 1. **Salário Mínimo** | publicação | [dados]('https://github.com/Nexo-Dados/PoliticasPublicas/blob/master/01.SalarioMinimo
 ')
 2. **Doenças Comunicáveis** | publicação | dados
+
+--
+
+Em caso de dúvidas sobre o repositório, entrar em contato com **dados@nexojornal.com.br**
