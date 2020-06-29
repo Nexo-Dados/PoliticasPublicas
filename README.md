@@ -35,8 +35,8 @@ Saiba mais sobre o Nexo Políticas Públicas [aqui]('#').
 
 ## Índice de gráficos
 
-1. **Salário Mínimo** | publicação | [dados]('https://github.com/Nexo-Dados/PoliticasPublicas/blob/master/01.SalarioMinimo
-')
+1. **Salário Mínimo** | publicação | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/blob/master/01.SalarioMinimo
+)
 2. **Doenças Comunicáveis** | publicação | dados
 
 --
