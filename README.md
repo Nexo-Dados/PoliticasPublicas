@@ -1,32 +1,38 @@
-RASCUNHO!
+<img src='https://github.com/Nexo-Dados/PoliticasPublicas/blob/master/nexopp.svg'>
 
+# Nexo Políticas Públicas - Dados
 
-# Nexo Politicas Publicas - Dados
-
-Repositório público com os dados e gráficos dos materiais publicados pelo Nexo Políticas Públicas, iniciativa do Nexo Jornal XXXXX (FALAR MAIS SOBRE A INCIATIVA E LINKAR).
-
-Esta página é mantida pela equipe de dados do Nexo Jornal, em caso de dúvidas, contatar XXXXX.
-
-## Sobre a política de dados abertos do Nexo Políticas Públicas
-
-...
+Repositório público com os dados e gráficos dos materiais publicados pelo Nexo Políticas Públicas, iniciativa do Nexo Jornal
 
 ## Como este repositório está organizado
 
-Cada pasta (ou subdiretório) deste projeto se refere a um gráfico diferente que foi publicado pelo Nexo Políticas Públicas, contendo dados, gráficos e informações adicionais. Importante lembrar que só são publicados aqui os materiais recebidos ou trabalhados pela equipe de dados do Nexo Jornal.
+Cada pasta (ou subdiretório) deste projeto se refere a um gráfico diferente que foi publicado na seção de **dados**, [Nexo Políticas Públicas]('#'). 
 
-## Como baixar os dados deste repositório
+Os materiais são assinados pela equipe do Nexo Jornal e os dados são originários de centros pesquisas parceiros.
 
-...
+## Como baixar este repositório
 
-## Como citar os dados
+### Para quem não tem o git instalado no computador
 
-Todos os dados aqui podem ser utilizados livremente, desde que as fontes sejam citadas.
+É necessário fazer o Download, como .zip, de todo o projeto do Nexo Políticas Públicas - Dados. Procure o botão escrito "Clone" (ou Clonar) nesta [página](https://github.com/Nexo-Dados/PoliticasPublicas) e clique em "Download ZIP".
 
-Cada pasta tem informações mais detalhadas sobre como citá-la.
+### Para quem tem o git instalado no computador
+
+
+Abra a linha de comando do seu computador.
+
+Para baixar o repositório inteiro do Nexo Políticas Públicas - Dados, digite:
+
+```
+git clone https://github.com/Nexo-Dados/PoliticasPublicas.git
+```
+
+Digite `cd` para ver onde a pasta foi baixada.
+
+
 
 ## Índice de gráficos
 
-1. Salário Mínimo
-2. Doenças Comunicáveis
-3. Fundeb
+1. **Salário Mínimo** | publicação | [dados]('https://github.com/Nexo-Dados/PoliticasPublicas/blob/master/01.SalarioMinimo
+')
+2. **Doenças Comunicáveis** | publicação | dados
