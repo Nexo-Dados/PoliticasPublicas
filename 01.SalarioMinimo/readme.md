@@ -66,7 +66,7 @@ O uso dos dados é livre, desde que a fonte seja citada.
 
 * Compilação dos dados: CEM (Centro de Estudos da Metrópole) Cepid/FAPESP.
 * Fonte original dos dados: INSS (Instituto Nacional do Seguro Social) e do Ipeadata, mantido pelo Ipea (Instituto de Pesquisa Econômica Aplicada).
-
+* Disponibilizado por: Nexo Políticas Públicas.
 
 ## Saiba mais
 
