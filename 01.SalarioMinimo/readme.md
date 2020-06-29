@@ -51,7 +51,7 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 ```
 @article{nexoppdados01,
- author  = {Zanlorenssi, Gabriel and Lucas Gomes},
+ author  = {Zanlorenssi, Gabriel and Gomes, Lucas},
  date    = {2020-07-01},
  title   = {A evolução do número de aposentados que recebem 1 salário mínimo},
  journal = {Nexo Jornal},
