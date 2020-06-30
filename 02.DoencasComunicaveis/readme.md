@@ -1,6 +1,6 @@
 <img src='https://github.com/Nexo-Dados/PoliticasPublicas/blob/master/nexopp.svg'>
 
-# 01. Doenças Comunicáveis
+# 02. Doenças Comunicáveis
 ## A evolução da mortalidade por doenças comunicáveis no Brasil
 
 Olá! Este é o repositório do gráfico "A evolução da mortalidade por doenças comunicáveis no Brasil", publicado no dia --/--/2000, pelo **Nexo Políticas Públicas**. O conteúdo completo você pode acessar [aqui]('www.nexojornal.com.br').
