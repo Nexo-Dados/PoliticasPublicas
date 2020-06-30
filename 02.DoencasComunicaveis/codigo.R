@@ -1,3 +1,11 @@
+## 02. Doenças comunicáveis
+## Autor: Gabriel Maia, Nexo Jornal
+## Contato: dados@nexojornal.com.br
+
+## pacote com as funcoes do nexo
+library(nexo.utils)
+## caso nao tenha instalado
+## devtools::install_github('Nexo-Dados/nexo.utils')
 
 # Bibliotecas e importação de dados ---------------------------------------
 
@@ -5,6 +13,12 @@
 library(patchwork)
 library(tidyverse)
 library(gganimate)
+library(nexo.utils)  ## pacote com as funcoes do nexo
+## caso nao tenha instalado
+## devtools::install_github('Nexo-Dados/nexo.utils')
+
+
+
 
 setwd("02.DoencasComunicaveis")
 
@@ -40,7 +54,7 @@ gbd_perc %>%
   ggplot(aes(x=year, y=perc_total, fill=cause_name))+
   geom_bar(stat="identity")+
   scale_fill_manual(values = c("#FF7B80","#484848","#BCB3D9"))
-ext.functions::extplot("variação do percentual das causas de morte ao longo do tempo",
+nexo.utils::extplot("variação do percentual das causas de morte ao longo do tempo",
                        1, 721)
 
 
@@ -52,7 +66,7 @@ gbd_perc %>%
   spread(year, perc_total) %>% 
   ggplot(aes(x=age_name, y=`2017`-`1990`, fill=ifelse(`2017`-`1990`>=0, F,T)))+
   geom_bar(stat="identity")
-ext.functions::extplot("diferença do percentual de mortes por doen. comun. entre 1990 e 2017 por fx etaria",
+nexo.utils::extplot("diferença do percentual de mortes por doen. comun. entre 1990 e 2017 por fx etaria",
                        2, 721)
 
 #faz o grafico de variação das causas de morte ao longo do tempo per capita no brasil
@@ -64,7 +78,7 @@ gbd_perc %>%
   ggplot(aes(x=year, y=percapita, col=cause_name))+
   geom_line()+
   scale_color_manual(values = c("#FF7B80","#484848","#BCB3D9"))
-ext.functions::extplot("variação das causas de morte ao longo do tempo por 100k hab",
+nexo.utils::extplot("variação das causas de morte ao longo do tempo por 100k hab",
                        3.1, 721)
 
 
@@ -78,7 +92,7 @@ gbd_perc %>%
   ggplot(aes(x=year, y=delta, col=cause_name))+
   geom_line()+
   scale_color_manual(values = c("#FF7B80","#484848","#BCB3D9"))
-ext.functions::extplot("variação percentual relativa a 1990 das causas de morte ao longo do tempo",
+nexo.utils::extplot("variação percentual relativa a 1990 das causas de morte ao longo do tempo",
                        3.2, 721)
 
 
@@ -89,7 +103,7 @@ gbd_perc %>%
   ggplot(aes(x=year, y=val, col=cause_name))+
   geom_line()+
   scale_color_manual(values = c("#FF7B80","#484848","#BCB3D9"))
-ext.functions::extplot("variação do valor total das causas de morte ao longo do tempo",
+nexo.utils::extplot("variação do valor total das causas de morte ao longo do tempo",
                        3, 721)
 
 
@@ -121,7 +135,7 @@ gbd_perc %>%
 
 a+b #plota os mapas usando patchwork
 
-ext.functions::extplot("percentual de mortes por doen. comun. 2017", theme = theme_void(),
+nexo.utils::extplot("percentual de mortes por doen. comun. 2017", theme = theme_void(),
                        4, 721)
 
 
