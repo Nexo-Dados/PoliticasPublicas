@@ -7,10 +7,10 @@ Olá! Este é o repositório do gráfico "A evolução do número de aposentados
 
 ## Fazem parte deste repositório..
 
-* **code.r** - arquivo de R com o código utilizado para gerar os gráficos da publicação.
-* **tabela.xlsx** - arquivo, em formato Excel, com as tabelas utilizadas nos gráficos.
-* **pdf** - pasta com todos os gráficos em formato PDF (vetor).
-* **png** - pasta com todos os gráficos em formato PNG (raster).
+* **codigo.r** - arquivo de R com o código utilizado para gerar os gráficos da publicação.
+* **/dados** - arquivos em formado .csv e shapefile usados na construção do gráfico
+* **/pdf** - pasta com todos os gráficos em formato PDF (vetor).
+* **/png** - pasta com todos os gráficos em formato PNG (raster).
 
 Atenção: os gráficos em formato PNG e PDF não necessariamente são idênticos ou estão na mesma ordem dos gráficos que foram publicados pelo **Nexo Políticas Públicas**. 
 
@@ -45,7 +45,7 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 ### Autoria do material
 
-* Gabriel Zanlorenssi e Lucas Gomes, **Nexo Jornal**, baseado em [coluna publicada]('www.nexojornal.com.br') pelos pesquiadores Marta Arretche e Paulo Flores. 
+* Gabriel Maia e Lucas Gomes, **Nexo Jornal**, baseado dados e [nota técnica]('https://ieps.org.br/wp-content/uploads/2020/03/NT1.pdf') por Beatriz Rache, Let´ıcia Nunes & Rudi Rocha 
 
 * Referência em formato BibTeX:
 
@@ -64,13 +64,13 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 O uso dos dados é livre, desde que a fonte seja citada.
 
-* Compilação dos dados: CEM (Centro de Estudos da Metrópole) Cepid/FAPESP.
-* Fonte original dos dados: INSS (Instituto Nacional do Seguro Social) e do Ipeadata, mantido pelo Ipea (Instituto de Pesquisa Econômica Aplicada).
+* Compilação dos dados: IEPS (Instituto de Estudos para Políticas de Saúde).
+* Fonte original dos dados: IHME (Institute for Health Metrics and Evaluation).
 * Disponibilizado por: Nexo Políticas Públicas.
 
 ## Saiba mais
 
-Este gráfico foi publicado em parceria com o CEM (Centro de Estudos da Metrópole) Cepid/FAPESP, dentro do **Nexo Políticas Públicas**. 
+Este gráfico foi publicado em parceria com o IEPS (Instituto de Estudos para Políticas de Saúde), dentro do **Nexo Políticas Públicas**. 
 
 Saiba mais [aqui]('#').
 
