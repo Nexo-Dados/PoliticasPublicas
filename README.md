@@ -30,9 +30,8 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 ## Índice de gráficos
 
-1. **Salário Mínimo** | publicação | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/blob/master/01.SalarioMinimo
-)
-2. **Doenças Comunicáveis** | publicação | dados
+1. **Salário Mínimo** | publicação | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/blob/master/01.SalarioMinimo)
+2. **Doenças Comunicáveis** | publicação | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/master/02.DoencasComunicaveis)
 
 --
 
