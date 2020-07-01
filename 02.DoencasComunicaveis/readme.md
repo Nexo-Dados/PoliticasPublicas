@@ -3,7 +3,7 @@
 # 02. Doenças Comunicáveis
 ## A evolução da mortalidade por doenças comunicáveis no Brasil
 
-Olá! Este é o repositório do gráfico "A evolução da mortalidade por doenças comunicáveis no Brasil", publicado no dia --/--/2000, pelo **Nexo Políticas Públicas**. O conteúdo completo você pode acessar [aqui]('www.nexojornal.com.br').
+Olá! Este é o repositório do gráfico "A evolução da mortalidade por doenças comunicáveis no Brasil", publicado no dia 29/06/2000, pelo **Nexo Políticas Públicas**. O conteúdo completo você pode acessar [aqui]('https://pp.nexojornal.com.br/Dados/2020/06/29/A-evolu%C3%A7%C3%A3o-da-mortalidade-por-doen%C3%A7as-comunic%C3%A1veis-no-Brasil').
 
 ## Fazem parte deste repositório..
 
@@ -45,17 +45,17 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 ### Autoria do material
 
-* Gabriel Maia e Lucas Gomes, **Nexo Jornal**, baseado dados e [nota técnica]('https://ieps.org.br/wp-content/uploads/2020/03/NT1.pdf') por Beatriz Rache, Let´ıcia Nunes & Rudi Rocha 
+* Gabriel Maia e Lucas Gomes, **Nexo Jornal**, baseado em dados da [nota técnica]('https://ieps.org.br/wp-content/uploads/2020/03/NT1.pdf') por Beatriz Rache, Letícia Nunes e Rudi Rocha.
 
 * Referência em formato BibTeX:
 
 ```
 @article{nexoppdados01,
  author  = {Maia, Gabriel and Gomes, Lucas},
- date    = {2020-07-01},
+ date    = {2020-06-29},
  title   = {inserir titulo aqui},
  journal = {Nexo Jornal},
- url     = {https://www.nexojornal.com/inserir-link-aqui},
+ url     = {https://pp.nexojornal.com.br/Dados/2020/06/29/A-evolu%C3%A7%C3%A3o-da-mortalidade-por-doen%C3%A7as-comunic%C3%A1veis-no-Brasil},
  urldate = {2020-07-01}
 }
 ```
@@ -72,6 +72,6 @@ O uso dos dados é livre, desde que a fonte seja citada.
 
 Este gráfico foi publicado em parceria com o IEPS (Instituto de Estudos para Políticas de Saúde), dentro do **Nexo Políticas Públicas**. 
 
-Saiba mais [aqui]('#').
+Saiba mais [aqui]('https://pp.nexojornal.com.br/sobre/Sobre-o-Nexo-Pol%C3%ADticas-P%C3%BAblicas').
 
 
