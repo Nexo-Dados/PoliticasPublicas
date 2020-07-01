@@ -11,6 +11,7 @@ Olá! Este é o repositório do gráfico "A evolução da mortalidade por doenç
 * **/dados** - arquivos em formado .csv e shapefile usados na construção do gráfico
 * **/pdf** - pasta com todos os gráficos em formato PDF (vetor).
 * **/png** - pasta com todos os gráficos em formato PNG (raster).
+* **teste_XXXXX.gif** - Testes de GIFs que acabaram não sendo usados no produto final.
 
 Atenção: os gráficos em formato PNG e PDF não necessariamente são idênticos ou estão na mesma ordem dos gráficos que foram publicados pelo **Nexo Políticas Públicas**. 
 
