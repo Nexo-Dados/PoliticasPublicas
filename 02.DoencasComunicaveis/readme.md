@@ -45,7 +45,7 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 ### Autoria do material
 
-* Gabriel Maia e Lucas Gomes, **Nexo Jornal**, baseado em dados da [nota técnica]('https://ieps.org.br/wp-content/uploads/2020/03/NT1.pdf') por Beatriz Rache, Letícia Nunes e Rudi Rocha.
+* Gabriel Maia e Lucas Gomes, **Nexo Jornal**, baseado em dados da [nota técnica](https://ieps.org.br/wp-content/uploads/2020/03/NT1.pdf) por Beatriz Rache, Letícia Nunes e Rudi Rocha.
 
 * Referência em formato BibTeX:
 
@@ -72,6 +72,6 @@ O uso dos dados é livre, desde que a fonte seja citada.
 
 Este gráfico foi publicado em parceria com o IEPS (Instituto de Estudos para Políticas de Saúde), dentro do **Nexo Políticas Públicas**. 
 
-Saiba mais [aqui]('https://pp.nexojornal.com.br/sobre/Sobre-o-Nexo-Pol%C3%ADticas-P%C3%BAblicas').
+Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/Sobre-o-Nexo-Pol%C3%ADticas-P%C3%BAblicas).
 
 
