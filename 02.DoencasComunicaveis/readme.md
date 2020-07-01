@@ -50,7 +50,7 @@ Digite `cd` para ver onde a pasta foi baixada.
 * Referência em formato BibTeX:
 
 ```
-@article{nexoppdados01,
+@article{nexoppdados02,
  author  = {Maia, Gabriel and Gomes, Lucas},
  date    = {2020-06-29},
  title   = {inserir titulo aqui},
