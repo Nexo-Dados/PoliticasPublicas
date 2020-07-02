@@ -3,7 +3,7 @@
 # 01. Salário Mínimo
 ## A evolução do número de aposentados que recebem 1 salário mínimo
 
-Olá! Este é o repositório do gráfico "A evolução do número de aposentados que recebem um salário mínimo", publicado no dia --/--/2000, pelo **Nexo Políticas Públicas**. O conteúdo completo você pode acessar [aqui]('www.nexojornal.com.br').
+Olá! Este é o repositório do gráfico "A evolução do número de aposentados que recebem um salário mínimo", que será publicado na semana que vem, pelo **Nexo Políticas Públicas**. 
 
 ## Fazem parte deste repositório..
 
@@ -45,20 +45,7 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 ### Autoria do material
 
-* Gabriel Zanlorenssi e Lucas Gomes, **Nexo Jornal**, baseado em [coluna publicada]('www.nexojornal.com.br') pelos pesquiadores Marta Arretche e Paulo Flores. 
-
-* Referência em formato BibTeX:
-
-```
-@article{nexoppdados01,
- author  = {Zanlorenssi, Gabriel and Gomes, Lucas},
- date    = {2020-07-01},
- title   = {A evolução do número de aposentados que recebem 1 salário mínimo},
- journal = {Nexo Jornal},
- url     = {https://www.nexojornal.com/inserir-link-aqui},
- urldate = {2020-07-01}
-}
-```
+* Gabriel Zanlorenssi e Lucas Gomes, **Nexo Jornal**, baseado em [coluna publicada](https://pp.nexojornal.com.br/opiniao/2020/O-car%C3%A1ter-social-do-sal%C3%A1rio-m%C3%ADnimo-da-pol%C3%ADtica-de-valoriza%C3%A7%C3%A3o-%C3%A0-reposi%C3%A7%C3%A3o-da-infla%C3%A7%C3%A3o) pelos pesquiadores Marta Arretche e Paulo Flores. 
 
 ### Fonte dos dados
 
@@ -72,6 +59,6 @@ O uso dos dados é livre, desde que a fonte seja citada.
 
 Este gráfico foi publicado em parceria com o CEM (Centro de Estudos da Metrópole) Cepid/FAPESP, dentro do **Nexo Políticas Públicas**. 
 
-Saiba mais [aqui]('#').
+Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/Sobre-o-Nexo-Pol%C3%ADticas-P%C3%BAblicas).
 
 
