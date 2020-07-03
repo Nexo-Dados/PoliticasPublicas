@@ -13,7 +13,7 @@ Os materiais são assinados pela equipe do **Nexo Jornal** e os dados são origi
 
 ### Para quem não tem o git instalado no computador
 
-É necessário fazer o Download, como .zip, de todo o projeto do Nexo Políticas Públicas - Dados. Procure o botão escrito "Clone" (ou Clonar) nesta [página](https://github.com/Nexo-Dados/PoliticasPublicas) e clique em "Download ZIP".
+É necessário fazer o Download, como .zip, de todo o projeto do Nexo Políticas Públicas - Dados. Procure o botão escrito "Code" (ou Código) nesta [página](https://github.com/Nexo-Dados/PoliticasPublicas) e clique em "Download ZIP".
 
 ### Para quem tem o git instalado no computador
 
