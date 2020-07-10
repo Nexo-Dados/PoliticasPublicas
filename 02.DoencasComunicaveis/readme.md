@@ -48,19 +48,6 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 * Gabriel Maia e Lucas Gomes, **Nexo Jornal**, baseado em dados da [nota técnica](https://ieps.org.br/wp-content/uploads/2020/03/NT1.pdf) por Beatriz Rache, Letícia Nunes e Rudi Rocha.
 
-* Referência em formato BibTeX:
-
-```
-@article{nexoppdados02,
- author  = {Maia, Gabriel and Gomes, Lucas},
- date    = {2020-06-29},
- title   = {inserir titulo aqui},
- journal = {Nexo Jornal},
- url     = {https://pp.nexojornal.com.br/Dados/2020/06/29/A-evolu%C3%A7%C3%A3o-da-mortalidade-por-doen%C3%A7as-comunic%C3%A1veis-no-Brasil},
- urldate = {2020-07-01}
-}
-```
-
 ### Fonte dos dados
 
 O uso dos dados é livre, desde que a fonte seja citada.
