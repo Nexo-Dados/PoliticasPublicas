@@ -3,7 +3,7 @@
 # 02. Doenças Comunicáveis
 ## A evolução da mortalidade por doenças comunicáveis no Brasil
 
-Olá! Este é o repositório do gráfico "A evolução da mortalidade por doenças comunicáveis no Brasil", publicado no dia 29/06/2020, pelo **Nexo Políticas Públicas**. O conteúdo completo você pode acessar [aqui]('https://pp.nexojornal.com.br/Dados/2020/06/29/A-evolu%C3%A7%C3%A3o-da-mortalidade-por-doen%C3%A7as-comunic%C3%A1veis-no-Brasil').
+Olá! Este é o repositório do gráfico "A evolução da mortalidade por doenças comunicáveis no Brasil", publicado no dia 29/06/2020, pelo **Nexo Políticas Públicas**. O conteúdo completo você pode acessar [aqui](https://pp.nexojornal.com.br/Dados/2020/06/29/A-evolu%C3%A7%C3%A3o-da-mortalidade-por-doen%C3%A7as-comunic%C3%A1veis-no-Brasil).
 
 ## Fazem parte deste repositório..
 
