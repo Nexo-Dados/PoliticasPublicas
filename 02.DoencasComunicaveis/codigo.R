@@ -1,6 +1,9 @@
 ## 02. Doenças comunicáveis
 ## Autor: Gabriel Maia, Nexo Jornal
 ## Contato: dados@nexojornal.com.br
+## Os dados do gráfico foram sistematizados e fornecidos pelo IEPS (Instituto de Estudos para Políticas de Saúde)
+## A análise foi baseada no trabalho de Beatriz Rache.
+
 
 ## pacote com as funcoes do nexo
 library(nexo.utils)
