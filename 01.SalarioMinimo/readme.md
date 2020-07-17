@@ -3,7 +3,7 @@
 # 01. Salário Mínimo
 ## A evolução do número de aposentados que recebem 1 salário mínimo
 
-Olá! Este é o repositório do gráfico "A evolução do número de aposentados que recebem um salário mínimo", que será publicado na semana que vem, pelo **Nexo Políticas Públicas**. 
+Olá! Este é o repositório do gráfico "A evolução do número de aposentados que recebem um salário mínimo", publicado pelo **Nexo Políticas Públicas**. Clique [aqui](https://pp.nexojornal.com.br/Dados/2020/06/29/A-evolu%C3%A7%C3%A3o-do-n%C3%BAmero-de-aposentados-que-recebem-1-sal%C3%A1rio-m%C3%ADnimo) para acessar a matéria.
 
 ## Fazem parte deste repositório..
 
