@@ -1,4 +1,4 @@
-<img src='https://github.com/Nexo-Dados/PoliticasPublicas/blob/master/nexopp.svg'>
+<img src='https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/03.SegurancaHidrica'>
 
 # 02. Doenças Comunicáveis
 ## A evolução da mortalidade por doenças comunicáveis no Brasil
