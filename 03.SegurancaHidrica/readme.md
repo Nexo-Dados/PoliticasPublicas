@@ -1,4 +1,4 @@
-<img src='https://github.com/Nexo-Dados/PoliticasPublicas/blob/master/nexopp.svg'>
+<img src='https://github.com/Nexo-Dados/PoliticasPublicas/blob/main/nexopp_logofull-cor2.png'>
 
 # 02. Segurança Hídrica
 ## A evolução da mortalidade por doenças comunicáveis no Brasil
