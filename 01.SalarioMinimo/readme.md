@@ -1,4 +1,4 @@
-<img src='https://github.com/Nexo-Dados/PoliticasPublicas/blob/master/nexopp.svg'>
+<img src='https://github.com/Nexo-Dados/PoliticasPublicas/blob/main/nexopp_logofull-cor2.png'>
 
 # 01. Salário Mínimo
 ## A evolução do número de aposentados que recebem 1 salário mínimo
