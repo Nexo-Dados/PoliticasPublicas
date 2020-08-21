@@ -2,12 +2,13 @@
 
 # Nexo Políticas Públicas - Dados
 
-
 ## Como este repositório está organizado
 
 Cada pasta (ou subdiretório) deste projeto se refere a um gráfico diferente que foi publicado na seção de **dados** do [Nexo Políticas Públicas](https://pp.nexojornal.com.br/Dados/). 
 
 Os materiais são assinados pela equipe do **Nexo Jornal** e os dados são originários de centros pesquisas parceiros.
+
+Importante: alguns dos conteúdos da seção Dados podem ser mais ilustrativos e não possuir dados e códigos para serem compartilhados.
 
 ## Como baixar este repositório
 
@@ -30,8 +31,9 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 ## Índice de gráficos
 
-1. **Salário Mínimo** | publicação | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/blob/master/01.SalarioMinimo)
-2. **Doenças Comunicáveis** | [publicação](https://pp.nexojornal.com.br/Dados/2020/06/29/A-evolu%C3%A7%C3%A3o-da-mortalidade-por-doen%C3%A7as-comunic%C3%A1veis-no-Brasil) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/master/02.DoencasComunicaveis)
+1. **Salário Mínimo**, em parceria com o CEM | [publicação](https://pp.nexojornal.com.br/Dados/2020/06/29/A-evolu%C3%A7%C3%A3o-do-n%C3%BAmero-de-aposentados-que-recebem-1-sal%C3%A1rio-m%C3%ADnimo) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/blob/master/01.SalarioMinimo)
+2. **Doenças Comunicáveis**, em parceria com o IEPS | [publicação](https://pp.nexojornal.com.br/Dados/2020/06/29/A-evolu%C3%A7%C3%A3o-da-mortalidade-por-doen%C3%A7as-comunic%C3%A1veis-no-Brasil) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/master/02.DoencasComunicaveis)
+3. **Segurança Hídrica no Brasil**, em parceria com o BPBES | publicação | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/master/03.SegurancaHidrica)
 
 --
 
