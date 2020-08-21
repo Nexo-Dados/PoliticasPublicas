@@ -1,7 +1,7 @@
 <img src='https://github.com/Nexo-Dados/PoliticasPublicas/blob/main/nexopp_logofull-cor2.png'>
 
-# 02. Segurança Hídrica
-## A evolução da mortalidade por doenças comunicáveis no Brasil
+# 03. Segurança Hídrica
+## (Título do gráfico)
 
 Olá! Este é o repositório do gráfico "A evolução da mortalidade por doenças comunicáveis no Brasil", que será publicado pelo **Nexo Políticas Públicas**. O conteúdo completo estará disponível em breve.
 
