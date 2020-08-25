@@ -33,7 +33,7 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 1. **Salário Mínimo**, em parceria com o CEM | [publicação](https://pp.nexojornal.com.br/Dados/2020/06/29/A-evolu%C3%A7%C3%A3o-do-n%C3%BAmero-de-aposentados-que-recebem-1-sal%C3%A1rio-m%C3%ADnimo) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/blob/master/01.SalarioMinimo)
 2. **Doenças Comunicáveis**, em parceria com o IEPS | [publicação](https://pp.nexojornal.com.br/Dados/2020/06/29/A-evolu%C3%A7%C3%A3o-da-mortalidade-por-doen%C3%A7as-comunic%C3%A1veis-no-Brasil) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/master/02.DoencasComunicaveis)
-3. **Segurança Hídrica no Brasil**, em parceria com o BPBES | publicação | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/master/03.SegurancaHidrica)
+3. **Segurança Hídrica no Brasil**, em parceria com o BPBES | [publicação](https://pp.nexojornal.com.br/Dados/2020/08/24/O-que-%C3%A9-seguran%C3%A7a-h%C3%ADdrica-e-quais-as-regi%C3%B5es-mais-amea%C3%A7adas-no-Brasil) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/master/03.SegurancaHidrica)
 
 --
 
