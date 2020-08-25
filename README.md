@@ -1,4 +1,4 @@
-<img src='https://github.com/Nexo-Dados/PoliticasPublicas/blob/master/nexopp_logofull-cor2.png'>
+<img src='https://github.com/Nexo-Dados/PoliticasPublicas/blob/main/nexopp_logofull-cor2.png'>
 
 # Nexo Políticas Públicas - Dados
 
