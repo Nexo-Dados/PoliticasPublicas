@@ -57,6 +57,6 @@ O uso dos dados é livre, desde que a fonte seja citada.
 
 ## Saiba mais
 
-Este gráfico foi publicado em parceria com o BIOTA/FAPESP, dentro do **Nexo Políticas Públicas**. Agradecemos o pesquisador XXXXXXXX pela revisão do material.
+Este gráfico foi publicado em parceria com o BIOTA/FAPESP, dentro do **Nexo Políticas Públicas**. 
 
 Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/Sobre-o-Nexo-Pol%C3%ADticas-P%C3%BAblicas).
