@@ -15,7 +15,7 @@ library(tidyverse)
 library(sf)
 
 
-mensal<-data.table::fread("0008. Malaria/internacoes.csv", encoding = "Latin-1") %>% 
+mensal<-data.table::fread("05.MalariaBrasil/internacoes.csv", encoding = "Latin-1") %>% 
   gather(AnoMes, Valor, `2007/Jul`:`2020/Ago`) %>%  #converte para formato tidy
   mutate(tempor=AnoMes) %>% 
   separate(tempor, c("Ano", "Mes"), "/") %>% #separa colunas
@@ -25,7 +25,7 @@ mensal<-data.table::fread("0008. Malaria/internacoes.csv", encoding = "Latin-1")
   mutate(Ano=as.numeric(Ano))
 
 
-mort_fx_etarias<-data.table::fread("0008. Malaria/mortalidade_fxetaria.csv", encoding = "Latin-1", skip = 4) %>% 
+mort_fx_etarias<-data.table::fread("05.MalariaBrasil/mortalidade_fxetaria.csv", encoding = "Latin-1", skip = 4) %>% 
   mutate(Taxa_mortalidade=as.numeric(str_replace(Taxa_mortalidade, ",", "."))) %>% 
   mutate(fx_order=row_number()) %>% 
   mutate(`Faixa Etária 1`=fct_reorder(as_factor(`Faixa Etária 1`), fx_order))
@@ -52,7 +52,7 @@ mensal %>% filter(Ano %in% c(2008:2019)) %>% #corta anos incompletos
 
 # Viz ---------------------------------------------------------------------
 
-setwd("0008. Malaria")
+setwd("05.MalariaBrasil")
 
 nexo.utils::mapMunic %>%   #shapefile municipios 
   left_join(nexo.utils::infoMunic, "ibge7") %>%    #junta com info dos municipios
