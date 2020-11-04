@@ -1,0 +1,24 @@
+ Morbidade Hospitalar do SUS - por local de residência - Brasil
+Taxa mortalidade por Faixa Etária 1
+Lista Morb  CID-10: Malária por Plasmodium falciparum, Malária por Plasmodium vivax, Malária por Plasmodium malariae, Outras formas malária conf exames parasitológ, Malária não especificada
+Período:Jan/2008-Ago/2020
+"Faixa Etária 1";"Taxa_mortalidade"
+"Menor 1 ano";0,35
+"1 a 4 anos";0,35
+"5 a 9 anos";0,07
+"10 a 14 anos";0,33
+"15 a 19 anos";0,33
+"20 a 29 anos";0,33
+"30 a 39 anos";0,72
+"40 a 49 anos";0,85
+"50 a 59 anos";1,32
+"60 a 69 anos";1,17
+"70 a 79 anos";1,85
+"80 anos e mais";4,36
+"Total";0,58
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Situação da base de dados nacional em 29/04/2016.
+ Dados de janeiro de 2015 até março de 2016 sujeitos a retificação.
+ 
