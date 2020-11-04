@@ -3,7 +3,7 @@
 # 03. Segurança Hídrica
 ## O que é segurança hídrica e quais as regiões mais ameaçadas no Brasil
 
-Olá! Este é o repositório do gráfico "A evolução da mortalidade por doenças comunicáveis no Brasil", publicado no dia 24/08/2020, pelo **Nexo Políticas Públicas**. O conteúdo completo você pode acessar [aqui](https://pp.nexojornal.com.br/Dados/2020/06/29/A-evolu%C3%A7%C3%A3o-da-mortalidade-por-doen%C3%A7as-comunic%C3%A1veis-no-Brasil).
+Olá! Este é o repositório do gráfico "O que é segurança hídrica e quais as regiões mais ameaçadas no Brasil", publicado no dia 24/08/2020, pelo **Nexo Políticas Públicas**. O conteúdo completo você pode acessar [aqui](https://pp.nexojornal.com.br/Dados/2020/08/24/O-que-%C3%A9-seguran%C3%A7a-h%C3%ADdrica-e-quais-as-regi%C3%B5es-mais-amea%C3%A7adas-no-Brasil).
 
 
 ## Fazem parte deste repositório..
