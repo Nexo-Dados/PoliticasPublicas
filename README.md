@@ -35,7 +35,7 @@ Digite `cd` para ver onde a pasta foi baixada.
 2. **Doenças Comunicáveis**, em parceria com o IEPS | [publicação](https://pp.nexojornal.com.br/Dados/2020/06/29/A-evolu%C3%A7%C3%A3o-da-mortalidade-por-doen%C3%A7as-comunic%C3%A1veis-no-Brasil) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/master/02.DoencasComunicaveis)
 3. **Segurança Hídrica no Brasil**, em parceria com o BPBES | [publicação](https://pp.nexojornal.com.br/Dados/2020/08/24/O-que-%C3%A9-seguran%C3%A7a-h%C3%ADdrica-e-quais-as-regi%C3%B5es-mais-amea%C3%A7adas-no-Brasil) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/master/03.SegurancaHidrica)
 4. **Reservas Florestais em São Paulo**, em parceria com o BIOTA/FAPESP | [publicação](https://pp.nexojornal.com.br/Dados/2020/09/25/O-deficit-florestal-nas-propriedades-privadas-em-SP) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/04.ReservasFlorestais)
-5. **Malária no Brasil**, em parceria com o BIOTA/FAPESP | [publicação](XXXXXXXXXXXXX) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/05.MalariaBrasil)
+5. **Malária no Brasil**, em parceria com o BIOTA/FAPESP | [publicação](https://pp.nexojornal.com.br/Dados/2020/11/05/Mal%C3%A1ria-onde-e-quando-ocorrem-as-interna%C3%A7%C3%B5es-no-Brasil) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/05.MalariaBrasil)
 
 --
 
