@@ -2,7 +2,7 @@
 
 # 06. Desigualdade de gênero e raça no mercado de trabalho no Brasil
 
-Olá! Este é o repositório do gráfico "A desigualdade racial e de gênero no mercado de trabalho no Brasil", publicado no dia 11/02/2021, pelo **Nexo Políticas Públicas**. O conteúdo completo você pode acessar aqui **(em breve)**.
+Olá! Este é o repositório do gráfico "A desigualdade racial e de gênero no mercado de trabalho no Brasil", publicado no dia 11/02/2021, pelo **Nexo Políticas Públicas**. O conteúdo completo você pode acessar [aqui](https://pp.nexojornal.com.br/Dados/2021/02/11/A-desigualdade-racial-e-de-g%C3%AAnero-no-mercado-de-trabalho-no-Brasil).
 
 
 ## Fazem parte deste repositório..
