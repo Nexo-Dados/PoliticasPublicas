@@ -37,7 +37,7 @@ Digite `cd` para ver onde a pasta foi baixada.
 4. **Reservas Florestais em São Paulo**, em parceria com o BIOTA/FAPESP | [publicação](https://pp.nexojornal.com.br/Dados/2020/09/25/O-deficit-florestal-nas-propriedades-privadas-em-SP) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/04.ReservasFlorestais)
 5. **Malária no Brasil**, em parceria com o BIOTA/FAPESP | [publicação](https://pp.nexojornal.com.br/Dados/2020/11/05/Mal%C3%A1ria-onde-e-quando-ocorrem-as-interna%C3%A7%C3%B5es-no-Brasil) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/05.MalariaBrasil)
 6. **Desigualdade de gênero e raça no mercado de trabalho**, em parceria com o CPTE | publicação | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/06.DesigualdadeGeneroRaca)
-
+6. **O papel dos polinizadores na agricultura brasileira**, em parceria com o BPBES | publicação | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/07.Polinizadores)
 --
 
 Em caso de dúvidas sobre o repositório, entrar em contato com **dados@nexojornal.com.br**
