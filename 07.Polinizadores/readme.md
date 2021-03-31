@@ -52,7 +52,7 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 O uso dos dados é livre, desde que a fonte seja citada.
 
-* Fonte dos dados: Pnad Contínua do 2º trimestre de 2020, do IBGE (Instituto Brasileiro de Geografia e Estatística).
+* Fonte dos dados: Relatório Temático sobre Polinização, Polinizadores e Produção de Alimentos no Brasil. BPBES
 * Disponibilizado por: Nexo Políticas Públicas.
 
 ## Saiba mais
