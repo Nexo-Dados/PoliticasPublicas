@@ -2,8 +2,7 @@
 
 # 07. O papel dos polinizadores na agricultura brasileira
 
-Olá! Este é o repositório do gráfico "A desigualdade racial e de gênero no mercado de trabalho no Brasil", publicado no dia 11/02/2021, pelo **Nexo Políticas Públicas**. O conteúdo completo você pode acessar [aqui](LINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINK).
-
+Olá! Este é o repositório de um gráfico que será publicado pelo **Nexo Políticas Públicas**. O material completo você poderá acessar em breve.
 
 ## Fazem parte deste repositório..
 
