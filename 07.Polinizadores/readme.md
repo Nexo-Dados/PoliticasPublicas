@@ -11,7 +11,7 @@ Olá! Este é o repositório do gráfico "A desigualdade racial e de gênero no 
 * **Tabela_para_figura.xlsx** - arquivo usado na construção do gráfico
 * **/pdf** - pasta com todos os gráficos em formato PDF (vetor).
 * **/png** - pasta com todos os gráficos em formato PNG (raster).
-* **BPBES_CompletoPolinizaca-2 (1).pdf** - pasta com todos os gráficos em formato PNG (raster).
+* **BPBES_CompletoPolinizaca-2 (1).pdf** - Relatório do BPBES
 
 Atenção: os gráficos em formato PNG e PDF não necessariamente são idênticos ou estão na mesma ordem dos gráficos que foram publicados pelo **Nexo Políticas Públicas**. 
 
