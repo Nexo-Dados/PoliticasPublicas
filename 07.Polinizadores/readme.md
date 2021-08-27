@@ -2,7 +2,7 @@
 
 # 07. O papel dos polinizadores na agricultura brasileira
 
-Olá! Este é o repositório de um gráfico que será publicado pelo **Nexo Políticas Públicas**. O material completo você poderá acessar em breve.
+Olá! Este é o repositório de publicado pelo **Nexo Políticas Públicas** no dia 06/04/2021. O material completo você pode ser acessado [aqui](https://pp.nexojornal.com.br/Dados/2021/04/06/O-papel-dos-polinizadores-na-agricultura-brasileira).
 
 ## Fazem parte deste repositório..
 
