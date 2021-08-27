@@ -1,6 +1,6 @@
 <img src='https://github.com/Nexo-Dados/PoliticasPublicas/blob/main/nexopp_logofull-cor2.png'>
 
-# 08. Campos sulinos
+# 08. A proteção e o uso da terra nos Campos Sulinos
 
 Olá! Este é o repositório de um gráfico que será publicado pelo **Nexo Políticas Públicas**. O material completo você poderá acessar em breve.
 
@@ -46,11 +46,11 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 O uso dos dados é livre, desde que a fonte seja citada.
 
-* Fonte dos dados: em atualização.
+* Fonte original dos dados: CNUC (Cadastro Nacional de Unidades de Conservação) do MMA (Ministério do Meio Ambiente), 2019, e MapBiomas.
 * Disponibilizado por: Nexo Políticas Públicas.
 
 ## Saiba mais
 
-Este gráfico foi publicado em parceria com o BPBES (Plataforma Brasileira de Biodiversidade e Serviços Ecossistêmicos), dentro do **Nexo Políticas Públicas**. 
+Este gráfico foi publicado em parceria com o BPBES (Plataforma Brasileira de Biodiversidade e Serviços Ecossistêmicos), dentro do **Nexo Políticas Públicas**. Os dados do gráfico foram sistematizados e fornecidos por Luciana Menezes pesquisadora colaboradora do Departamento de Botânica da Universidade Federal do Rio Grande do Sul 
 
 Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/Sobre-o-Nexo-Pol%C3%ADticas-P%C3%BAblicas).
