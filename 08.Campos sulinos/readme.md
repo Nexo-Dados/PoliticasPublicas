@@ -6,7 +6,11 @@ Olá! Este é o repositório de um gráfico que será publicado pelo **Nexo Pol�
 
 ## Fazem parte deste repositório..
 
-* **campos_sulinos.qfz** - Projeto de qgis utilizado para gerar as imagens.
+* **campos_sulinos.qgz** - Projeto de qgis utilizado para gerar as imagens.
+* **Campos_Sulinos_5000mil.zip** - Arquivo shapefile contendo a delimitação dos Campos Sulinos.
+* **Cidades.zip** - Arquivo shapefile contendo cidades importantes dentro da delimitação dos Campos Sulinos, além das capitais dos três estados do Sul.
+* **Parques_nacionais.zip** - Arquivos shapefile com a delimitação das unidades de conservação destacadas na matéria.
+* **Regiao_Sul_semlagoa.zip** - Arquivo shapefile com a delimitação dos três estados do Sul.
 * Arquivos shapefile estão comprimidos em formato .zip
 
 ## Como baixar os arquivos?
@@ -46,7 +50,7 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 O uso dos dados é livre, desde que a fonte seja citada.
 
-* Fonte original dos dados: CNUC (Cadastro Nacional de Unidades de Conservação) do MMA (Ministério do Meio Ambiente), 2019, e MapBiomas.
+* Fonte original dos dados: CNUC (Cadastro Nacional de Unidades de Conservação) do MMA (Ministério do Meio Ambiente), IBGE (Instituto Brasileiro de Geografia e Estatística) e MapBiomas.
 * Disponibilizado por: Nexo Políticas Públicas.
 
 ## Saiba mais
