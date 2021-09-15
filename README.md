@@ -38,7 +38,8 @@ Digite `cd` para ver onde a pasta foi baixada.
 5. **Malária no Brasil**, em parceria com o BIOTA/FAPESP | [publicação](https://pp.nexojornal.com.br/Dados/2020/11/05/Mal%C3%A1ria-onde-e-quando-ocorrem-as-interna%C3%A7%C3%B5es-no-Brasil) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/05.MalariaBrasil)
 6. **Desigualdade de gênero e raça no mercado de trabalho**, em parceria com o CPTE | [publicação](https://pp.nexojornal.com.br/Dados/2021/02/11/A-desigualdade-racial-e-de-g%C3%AAnero-no-mercado-de-trabalho-no-Brasil) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/06.DesigualdadeGeneroRaca)
 7. **O papel dos polinizadores na agricultura brasileira**, em parceria com o BPBES | [publicação](https://pp.nexojornal.com.br/Dados/2021/04/06/O-papel-dos-polinizadores-na-agricultura-brasileira) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/07.Polinizadores)
-8. **Campos Sulinos (em breve)**, em parceria com o BPBES | publicação | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/08.Campos%20sulinos)
+8. **A proteção e uso da terra nos Campos Sulinos**, em parceria com o BPBES | [publicação](https://pp.nexojornal.com.br/Dados/2021/08/30/A-prote%C3%A7%C3%A3o-e-o-uso-da-terra-nos-Campos-Sulinos) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/08.Campos%20sulinos)
+9. **Catinga (em breve)**, em parceria com o BPBES | publicação | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/09.Caatinga)
 
 
 --
