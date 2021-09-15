@@ -2,7 +2,7 @@
 
 # 08. A proteção e o uso da terra nos Campos Sulinos
 
-Olá! Este é o repositório de um gráfico que será publicado pelo **Nexo Políticas Públicas**. O material completo você poderá acessar em breve.
+Olá! Este é o repositório de um gráfico que será publicado pelo **Nexo Políticas Públicas**. O material completo você pode acessar [aqui](https://pp.nexojornal.com.br/Dados/2021/08/30/A-prote%C3%A7%C3%A3o-e-o-uso-da-terra-nos-Campos-Sulinos).
 
 ## Fazem parte deste repositório..
 
