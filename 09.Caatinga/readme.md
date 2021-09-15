@@ -24,7 +24,7 @@ Abra a linha de comando do seu computador.
 Para baixar apenas o repositório deste gráfico, digite:
 
 ```
-svn export https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/07.Polinizadores
+svn export https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/09.Caatinga
 ```
 
 Para baixar o repositório inteiro do Nexo Políticas Públicas - Dados, digite:
