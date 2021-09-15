@@ -50,6 +50,6 @@ O uso dos dados é livre, desde que a fonte seja citada.
 
 ## Saiba mais
 
-Este gráfico foi publicado em parceria com a BPBES (Plataforma Brasileira de Biodiversidade e Serviços Ecossistêmicos), dentro do **Nexo Políticas Públicas**. Os dados do gráfico foram sistematizados e fornecidos por Luciana Menezes pesquisadora colaboradora do Departamento de Botânica da Universidade Federal do Rio Grande do Sul 
+Este gráfico foi publicado em parceria com a BPBES (Plataforma Brasileira de Biodiversidade e Serviços Ecossistêmicos), dentro do **Nexo Políticas Públicas**. 
 
 Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/Sobre-o-Nexo-Pol%C3%ADticas-P%C3%BAblicas).
