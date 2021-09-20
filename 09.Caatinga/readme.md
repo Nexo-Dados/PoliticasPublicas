@@ -8,14 +8,14 @@ Olá! Este é o repositório de um gráfico que será publicado pelo **Nexo Pol�
 
 Por razão de armazenamento no GitHub, os arquivos estão no zip "Pacote_Caatinga"
 
-**a_caatinga_geral.qgz**: Arquivo básico do QGIS.
-**Biomas_simplificados.shp**: Arquivo com todos os biomas do Brasil. Fonte: IBGE.
-**caatinga_simplificada.shp**: Arquivo com a extensão da Caatinga. Fonte: IBGE.
-**capitais_do_brasil.shp**: Arquivo com as capitais do Brasil. Fonte: IBGE.
-**cidades_caatinga.shp**: Arquivo com cidades selecionadas que estão dentro do bioma. Fonte: IBGE.
-**rio_sao_francisco.shp**: Arquivo com a extensão do Rio São Francisco: Fonte: ANA (Agência Nacional de Águas).
-**UFS_do_brasil.shp**: Arquivo contendo as UFs do Brasil. Fonte: IBGE.
-**unidades_conservacao_federais.shp**: Arquivo com todas as unidades de conservação federais (foram filtradas apenas algumas dentro da Caatinga). Fonte: Ministério do Meio Ambiente.
+* **a_caatinga_geral.qgz**: Arquivo básico do QGIS.
+* **Biomas_simplificados.shp**: Arquivo com todos os biomas do Brasil. Fonte: IBGE.
+* **caatinga_simplificada.shp**: Arquivo com a extensão da Caatinga. Fonte: IBGE.
+* **capitais_do_brasil.shp**: Arquivo com as capitais do Brasil. Fonte: IBGE.
+* **cidades_caatinga.shp**: Arquivo com cidades selecionadas que estão dentro do bioma. Fonte: IBGE.
+* **rio_sao_francisco.shp**: Arquivo com a extensão do Rio São Francisco: Fonte: ANA (Agência Nacional de Águas).
+* **UFS_do_brasil.shp**: Arquivo contendo as UFs do Brasil. Fonte: IBGE.
+* **unidades_conservacao_federais.shp**: Arquivo com todas as unidades de conservação federais (foram filtradas apenas algumas dentro da Caatinga). Fonte: Ministério do Meio Ambiente.
 
 
 ## Como baixar os arquivos?
