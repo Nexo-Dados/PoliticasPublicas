@@ -2,7 +2,7 @@
 
 # 09. O que é a Caatinga e qual seu estado de preservação
 
-Olá! Este é o repositório de um gráfico que será publicado pelo **Nexo Políticas Públicas**. O material completo você poderá acessar em breve.
+Olá! Este é o repositório de um gráfico que será publicado pelo **Nexo Políticas Públicas**. O material completo você poderá acessar [aqui](https://pp.nexojornal.com.br/Dados/2021/09/20/O-que-%C3%A9-a-Caatinga-e-seu-estado-de-preserva%C3%A7%C3%A3o?posicao-home-esquerda=4)
 
 ## Fazem parte deste repositório..
 
