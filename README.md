@@ -39,10 +39,11 @@ Digite `cd` para ver onde a pasta foi baixada.
 6. **Desigualdade de gênero e raça no mercado de trabalho**, em parceria com o CPTE | [publicação](https://pp.nexojornal.com.br/Dados/2021/02/11/A-desigualdade-racial-e-de-g%C3%AAnero-no-mercado-de-trabalho-no-Brasil) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/06.DesigualdadeGeneroRaca)
 7. **O papel dos polinizadores na agricultura brasileira**, em parceria com o BPBES | [publicação](https://pp.nexojornal.com.br/Dados/2021/04/06/O-papel-dos-polinizadores-na-agricultura-brasileira) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/07.Polinizadores)
 8. **A proteção e uso da terra nos Campos Sulinos**, em parceria com a BPBES | [publicação](https://pp.nexojornal.com.br/Dados/2021/08/30/A-prote%C3%A7%C3%A3o-e-o-uso-da-terra-nos-Campos-Sulinos) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/08.Campos%20sulinos)
-9. **Caatinga (em breve)**, em parceria com a BPBES | publicação | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/09.Caatinga)
+9. **O que é a Caatinga e seu estado de preservação**, em parceria com a BPBES | [publicação](https://pp.nexojornal.com.br/Dados/2021/09/20/O-que-%C3%A9-a-Caatinga-e-seu-estado-de-preserva%C3%A7%C3%A3o?posicao-home-esquerda=4) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/09.Caatinga)
 10. **Saúde mental (em breve)**, em parceria com o IEPS | publicação | dados
 
 --
+
 
 Em caso de dúvidas sobre o repositório, entrar em contato com **dados@nexojornal.com.br**
 
