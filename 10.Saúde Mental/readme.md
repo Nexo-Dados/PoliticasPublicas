@@ -6,15 +6,11 @@ Olá! Este é o repositório de um gráfico do **Nexo Políticas Públicas**. O 
 
 ## Fazem parte deste repositório..
 
-* **a_caatinga_geral.qgz**: Arquivo básico do QGIS.
-* **Biomas_simplificados.shp**: Arquivo com todos os biomas do Brasil. Fonte: IBGE.
-* **caatinga_simplificada.shp**: Arquivo com a extensão da Caatinga. Fonte: IBGE.
-* **capitais_do_brasil.shp**: Arquivo com as capitais do Brasil. Fonte: IBGE.
-* **cidades_caatinga.shp**: Arquivo com cidades selecionadas que estão dentro do bioma. Fonte: IBGE.
-* **rio_sao_francisco.shp**: Arquivo com a extensão do Rio São Francisco: Fonte: ANA (Agência Nacional de Águas).
-* **UFS_do_brasil.shp**: Arquivo contendo as UFs do Brasil. Fonte: IBGE.
-* **unidades_conservacao_federais.shp**: Arquivo com todas as unidades de conservação federais (foram filtradas apenas algumas dentro da Caatinga). Fonte: Ministério do Meio Ambiente.
-
+* **plot_depression_treatgap_race.rds**: Arquivo com dados sobre pessoas que não recebem tratamento, por raça/cor.
+* **plot_depression_treatgap_total.rds**: Arquivo com dados sobre pessoas que não recebem tratamento, no total.
+* **plot_phq9_depressed_gender.rds**: Arquivo com dados sobre entrevistados com sintomas compatíveis com depressão, por gênero.
+* **plot_phq9_depressed_income.rds**: Arquivo com dados sobre entrevistados com sintomas compatíveis com depressão, por renda.
+* **plot_phq9_depressed_total.rds**: Arquivo com dados sobre entrevistados com sintomas compatíveis com depressão, no total.
 
 ## Como baixar os arquivos?
 
@@ -53,7 +49,7 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 O uso dos dados é livre, desde que a fonte seja citada.
 
-* Fonte original dos dados: (em breve)
+* Fonte original dos dados: PNS (Pesquisa Nacional de Saúde) de 2013 e 2019.
 * Disponibilizado por: Nexo Políticas Públicas.
 
 ## Saiba mais
