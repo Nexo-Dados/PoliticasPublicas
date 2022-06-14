@@ -2,7 +2,7 @@
 
 # 11. O que são e onde ficam as unidades de conservação do Brasil em 2019
 
-Olá! Este é o repositório de um gráfico do **Nexo Políticas Públicas**. O material completo você poderá acessar [aqui](https://pp.nexojornal.com.br/Dados/2021/09/20/O-que-%C3%A9-a-Caatinga-e-seu-estado-de-preserva%C3%A7%C3%A3o?posicao-home-esquerda=4)
+Olá! Este é o repositório de um gráfico do **Nexo Políticas Públicas**. O material completo você poderá acessar em breve.
 
 ## Fazem parte deste repositório..
 
@@ -55,8 +55,6 @@ O uso dos dados é livre, desde que a fonte seja citada.
 
 ## Saiba mais
 
-Este gráfico foi publicado em parceria com a BPBES (Plataforma Brasileira de Biodiversidade e Serviços Ecossistêmicos), dentro do **Nexo Políticas Públicas**. 
-
-Os dados do gráfico foram sistematizados e fornecidos por Renato Garcia do NEMA (Núcleo de Ecologia e Monitoramento Ambiental), da Universidade Federal do Vale do São Francisco, Eduardo Venticinque e Marina Antongiovanni, do Departamento de Ecologia da Universidade Federal do Rio Grande do Norte.
+Este gráfico foi publicado em parceria com o CEM/Cepid-Fapesp (Centro de Estudos da Metrópole), dentro do **Nexo Políticas Públicas**. 
 
 Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/Sobre-o-Nexo-Pol%C3%ADticas-P%C3%BAblicas).
