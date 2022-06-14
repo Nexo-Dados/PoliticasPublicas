@@ -50,7 +50,7 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 O uso dos dados é livre, desde que a fonte seja citada.
 
-* Fonte original dos dados: Centro de Estudos da Metrópole
+* Fonte original dos dados: Centro de Estudos da Metrópole e Mapbiomas
 * Disponibilizado por: Nexo Políticas Públicas.
 
 ## Saiba mais
