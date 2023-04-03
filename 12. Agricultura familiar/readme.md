@@ -2,7 +2,7 @@
 
 # 12. A participação da agricultura familiar na produção agrícola brasileira
 
-Olá! Este é o repositório de um gráfico do **Nexo Políticas Públicas**. O material completo você poderá acessar [aqui](https://pp.nexojornal.com.br/Dados/2023/02/08/A-participa%C3%A7%C3%A3o-da-agricultura-familiar-na-produ%C3%A7%C3%A3o-agr%C3%ADcola-brasileira).
+Olá! Este é o repositório de um gráfico do **Nexo Políticas Públicas**. O material completo você pode acessar [aqui](https://pp.nexojornal.com.br/Dados/2023/02/08/A-participa%C3%A7%C3%A3o-da-agricultura-familiar-na-produ%C3%A7%C3%A3o-agr%C3%ADcola-brasileira).
 
 ## Fazem parte deste repositório..
 
