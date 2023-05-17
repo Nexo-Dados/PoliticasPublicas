@@ -43,7 +43,7 @@ Digite `cd` para ver onde a pasta foi baixada.
 O uso dos dados é livre, desde que a fonte seja citada.
 
 * Fonte original dos dados: Pnad contínua, IBGE
-* 
+
 ## Saiba mais
 
 Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/Sobre-o-Nexo-Pol%C3%ADticas-P%C3%BAblicas).
