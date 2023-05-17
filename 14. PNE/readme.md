@@ -1,6 +1,6 @@
 <img src='https://github.com/Nexo-Dados/PoliticasPublicas/blob/main/nexopp_logofull-cor2.png'>
 
-# 11. A alfabetização e o analfabetismo funcional no Brasil
+# 14. A alfabetização e o analfabetismo funcional no Brasil
 
 Olá! Este é o repositório de um gráfico do **Nexo Políticas Públicas**. O material completo você pode acessar em breve.
 
@@ -42,8 +42,8 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 O uso dos dados é livre, desde que a fonte seja citada.
 
-* Fonte original dos dados: levantamento próprio do Iser (Instituto de Estudos da Religião)
-
+* Fonte original dos dados: Pnad contínua, IBGE
+* 
 ## Saiba mais
 
 Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/Sobre-o-Nexo-Pol%C3%ADticas-P%C3%BAblicas).
