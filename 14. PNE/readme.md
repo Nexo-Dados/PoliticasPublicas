@@ -42,7 +42,7 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 O uso dos dados é livre, desde que a fonte seja citada.
 
-* Fonte original dos dados: Pnad contínua, IBGE
+* Os dados são dos relatórios de monitoramento do [PNE](https://www.gov.br/inep/pt-br/areas-de-atuacao/gestao-do-conhecimento-e-estudos-educacionais/estudos-educacionais/relatorios-de-monitoramento-do-pne). A fonte original é a Pnad contínua, IBGE.
 
 ## Saiba mais
 
