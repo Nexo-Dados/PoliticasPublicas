@@ -2,7 +2,7 @@
 
 # 14. A alfabetização e o analfabetismo funcional no Brasil
 
-Olá! Este é o repositório de um gráfico do **Nexo Políticas Públicas**. O material completo você pode acessar em breve.
+Olá! Este é o repositório de um gráfico do **Nexo Políticas Públicas**. O material completo você pode acessar [aqui](https://pp.nexojornal.com.br/Dados/2023/05/19/A-alfabetiza%C3%A7%C3%A3o-e-o-analfabetismo-funcional-no-Brasil).
 
 
 ## Como baixar os arquivos?
@@ -21,7 +21,7 @@ Abra a linha de comando do seu computador.
 Para baixar apenas o repositório deste gráfico, digite:
 
 ```
-svn export https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/13.%20Confessionalidade%20dos%20deputados
+svn export https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/14.%20PNE
 ```
 
 Para baixar o repositório inteiro do Nexo Políticas Públicas - Dados, digite:
