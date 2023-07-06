@@ -1,6 +1,6 @@
 <img src='https://github.com/Nexo-Dados/PoliticasPublicas/blob/main/nexopp_logofull-cor2.png'>
 
-# 14. Desigualdade de renda no mercado de trabalho
+# 15. Desigualdade de renda no mercado de trabalho
 
 Olá! Este é o repositório de um gráfico do **Nexo Políticas Públicas**. O material completo você pode acessar em breve.
 
