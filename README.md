@@ -49,7 +49,7 @@ Digite `cd` para ver onde a pasta foi baixada.
 16. **Três tendências no orçamento federal de saúde**, em pareceria com o Ieps | [publicação](https://pp.nexojornal.com.br/Dados/2023/08/11/Tr%C3%AAs-tend%C3%AAncias-do-or%C3%A7amento-federal-da-sa%C3%BAde-desde-2013) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/16.%20Tend%C3%AAncias%20or%C3%A7amento%20sa%C3%BAde)
 17. **Acesso à creches por cor/raça**, em parceria com o Núcleo Afro do Cebrap | [publicação](https://pp.nexojornal.com.br/dados/2023/09/27/a-desigualdade-racial-no-acesso-a-creches-no-brasil) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/17.%20Acesso%20a%20creches%20por%20cor)
 18. **Expectativa de vida no Brasil** | [publicação](https://pp.nexojornal.com.br/dados/2024/10/01/expectativa-de-vida-brasil-2024-grafico) | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/18.%20Longevidade%20no%20Brasil)
-19. **Trabalho voluntário e longevidade** | [publicação em breve]() | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/19.%20Trabalho%20volunt%C3%A1rio%20)
+19. **Trabalho voluntário e longevidade** | publicação em breve | [dados](https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/19.%20Trabalho%20volunt%C3%A1rio)
 
 --
 
