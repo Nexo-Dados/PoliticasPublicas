@@ -22,7 +22,9 @@ Abra a linha de comando do seu computador.
 Para baixar apenas o repositório deste gráfico, digite:
 
 ```
-svn export https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/15.%20Desigualdade%20salarial/readme.md
+git clone --depth 1 --filter=blob:none --sparse https://github.com/Nexo-Dados/PoliticasPublicas.git
+cd PoliticasPublicas
+git sparse-checkout set "17. Acesso a creches por cor"
 ```
 
 Para baixar o repositório inteiro do Nexo Políticas Públicas - Dados, digite:
@@ -48,5 +50,5 @@ Os dados do gráfico foram sistematizados e fornecidos pelo pesquisador Leonardo
 
 ## Saiba mais
 
-Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/Sobre-o-Nexo-Pol%C3%ADticas-P%C3%BAblicas).
+Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/politicas-publicas).
 

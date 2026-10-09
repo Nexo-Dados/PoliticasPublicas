@@ -29,7 +29,9 @@ Abra a linha de comando do seu computador.
 Para baixar apenas o repositório deste gráfico, digite:
 
 ```
-svn export https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/08.Campos%20sulinos
+git clone --depth 1 --filter=blob:none --sparse https://github.com/Nexo-Dados/PoliticasPublicas.git
+cd PoliticasPublicas
+git sparse-checkout set "08.Campos sulinos"
 ```
 
 Para baixar o repositório inteiro do Nexo Políticas Públicas - Dados, digite:
@@ -57,4 +59,4 @@ O uso dos dados é livre, desde que a fonte seja citada.
 
 Este gráfico foi publicado em parceria com o BPBES (Plataforma Brasileira de Biodiversidade e Serviços Ecossistêmicos), dentro do **Nexo Políticas Públicas**. Os dados do gráfico foram sistematizados e fornecidos por Luciana Menezes pesquisadora colaboradora do Departamento de Botânica da Universidade Federal do Rio Grande do Sul 
 
-Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/Sobre-o-Nexo-Pol%C3%ADticas-P%C3%BAblicas).
+Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/politicas-publicas).

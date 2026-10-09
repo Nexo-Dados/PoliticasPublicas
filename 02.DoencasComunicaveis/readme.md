@@ -31,7 +31,9 @@ Abra a linha de comando do seu computador.
 Para baixar apenas o repositório deste gráfico, digite:
 
 ```
-svn export https://github.com/Nexo-Dados/PoliticasPublicas/trunk/02.DoencasComunicaveis
+git clone --depth 1 --filter=blob:none --sparse https://github.com/Nexo-Dados/PoliticasPublicas.git
+cd PoliticasPublicas
+git sparse-checkout set "02.DoencasComunicaveis"
 ```
 
 Para baixar o repositório inteiro do Nexo Políticas Públicas - Dados, digite:
@@ -46,7 +48,7 @@ Digite `cd` para ver onde a pasta foi baixada.
 
 ### Autoria do material
 
-* Gabriel Maia e Lucas Gomes, **Nexo Jornal**, baseado em dados da [nota técnica](https://ieps.org.br/wp-content/uploads/2020/03/NT1.pdf) por Beatriz Rache, Letícia Nunes e Rudi Rocha.
+* Gabriel Maia e Lucas Gomes, **Nexo Jornal**, baseado em dados da [nota técnica](https://ieps.org.br/wp-content/uploads/2021/11/NT1.pdf) por Beatriz Rache, Letícia Nunes e Rudi Rocha.
 
 ### Fonte dos dados
 
@@ -60,6 +62,6 @@ O uso dos dados é livre, desde que a fonte seja citada.
 
 Este gráfico foi publicado em parceria com o IEPS (Instituto de Estudos para Políticas de Saúde), dentro do **Nexo Políticas Públicas**. 
 
-Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/Sobre-o-Nexo-Pol%C3%ADticas-P%C3%BAblicas).
+Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/politicas-publicas).
 
 

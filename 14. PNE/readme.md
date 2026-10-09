@@ -21,7 +21,9 @@ Abra a linha de comando do seu computador.
 Para baixar apenas o repositório deste gráfico, digite:
 
 ```
-svn export https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/14.%20PNE
+git clone --depth 1 --filter=blob:none --sparse https://github.com/Nexo-Dados/PoliticasPublicas.git
+cd PoliticasPublicas
+git sparse-checkout set "14. PNE"
 ```
 
 Para baixar o repositório inteiro do Nexo Políticas Públicas - Dados, digite:
@@ -46,4 +48,4 @@ O uso dos dados é livre, desde que a fonte seja citada.
 
 ## Saiba mais
 
-Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/Sobre-o-Nexo-Pol%C3%ADticas-P%C3%BAblicas).
+Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/politicas-publicas).
