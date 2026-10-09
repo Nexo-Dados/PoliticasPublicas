@@ -34,7 +34,9 @@ Abra a linha de comando do seu computador.
 Para baixar apenas o repositório deste gráfico, digite:
 
 ```
-svn export https://github.com/Nexo-Dados/PoliticasPublicas/tree/main/09.Caatinga
+git clone --depth 1 --filter=blob:none --sparse https://github.com/Nexo-Dados/PoliticasPublicas.git
+cd PoliticasPublicas
+git sparse-checkout set "09.Caatinga"
 ```
 
 Para baixar o repositório inteiro do Nexo Políticas Públicas - Dados, digite:
@@ -65,4 +67,4 @@ Este gráfico foi publicado em parceria com a BPBES (Plataforma Brasileira de Bi
 
 Os dados do gráfico foram sistematizados e fornecidos por Renato Garcia do NEMA (Núcleo de Ecologia e Monitoramento Ambiental), da Universidade Federal do Vale do São Francisco, Eduardo Venticinque e Marina Antongiovanni, do Departamento de Ecologia da Universidade Federal do Rio Grande do Norte.
 
-Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/Sobre-o-Nexo-Pol%C3%ADticas-P%C3%BAblicas).
+Saiba mais [aqui](https://pp.nexojornal.com.br/sobre/politicas-publicas).
